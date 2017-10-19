@@ -20,5 +20,5 @@ The code block that follows the function declaration must be indented (single) i
 <!-- Please add any articles you think might be helpful to read before writing the article -->
 <a href="https://en.wikipedia.org/wiki/Off-side_rule" target="_blank" rel="nofollow">Off-Side Rule</a>
 <br />
-<a href="https://github.com/freeCodeCamp/guides/blob/master/src/pages/python/calling-functions/index.md" target="_blank" rel="nofollow">Calling Python Functions</a>
+<a href="https://guide.freecodecamp.org/python/calling-functions" target="_blank" rel="nofollow">Calling Python Functions</a>
 
